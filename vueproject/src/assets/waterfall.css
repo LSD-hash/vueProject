@@ -1,0 +1,14 @@
+.wf-item .wf-img{
+    width: 100%;
+    height: 100%;
+}
+.weappen{
+    position: relative;
+    width:1200px;
+    margin: 100px auto;
+    columns: 6;
+    columns-gap: 20px;
+    border: 1px solid #66ccff;
+}
+
+/* 瀑布流css */

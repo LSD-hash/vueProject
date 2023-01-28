@@ -1,0 +1,9 @@
+html,body,div{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+
+/* 全局去掉边框 */
